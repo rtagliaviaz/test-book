@@ -1,0 +1,12 @@
+{
+    "plugins": [
+        "language-picker"
+
+    ],
+    "pluginsConfig": {
+        "language-redirect": {
+            "baseurl": ""
+        },
+        "favicon": "favicon.ico"
+    }
+}

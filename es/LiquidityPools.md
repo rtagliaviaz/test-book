@@ -1,4 +1,4 @@
-# Liquidity Pools
+# Liquidity Pools spanish
 ---
 
 Users can create liquidity pools for any Serum market. Depositing liquidity in these pools will return Atrix LP tokens (ALP) which represent a proportional share of the liquidity in the pool. ALP tokens can then be used as money legos in other protocols, or can be staked in Atrix farms.
