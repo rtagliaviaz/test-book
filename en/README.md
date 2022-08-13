@@ -6,4 +6,6 @@ Decentralized Finance (DeFi) has seen exponential growth in Total Value Locked (
 Atrix is an AMM built on Solana which utilizes Serum’s order books and allows for permissionless liquidity pool and farm creation. Atrix will provide users and projects the best experience for swapping on and adding liquidity to Serum, and interacting with farms.
 
 
-https://user-images.githubusercontent.com/47251170/184493772-2d66471c-4fdb-4934-9672-1b4825e7e9be.mp4
+<video width="100%" height="auto" controls>
+  <source src="https://user-images.githubusercontent.com/47251170/184493772-2d66471c-4fdb-4934-9672-1b4825e7e9be.mp4" type="video/mp4">
+</video>
