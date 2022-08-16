@@ -1,5 +1,7 @@
 * [Bienvenida](README.md)
 
+* Primeros Pasos
+  * [SPL Wallet](./getting-started/spl-wallet.md)
 
 * Guia de uso
   * [Cuenta]()
@@ -9,11 +11,15 @@
   * [Empleo]()
     * [Portal]()
     * [Publicación de oferta]()
+    * [Estado de Búsqueda]()
   * [Articulos]()
-    * [Buscador]()
+    * [Buscador](./guides/blog/search-engine.md)
     * [Creación](./guides/blogpost.md)
-    * [Gestión]()
+    * [Gestión](./guides/blog/posts-management.md)
 
+
+* Exchange
+  * [CODE Token]()
 
 
 * Comunidad
@@ -22,6 +28,10 @@
     * [Canal](https://t.me/codenjobs)
     * [Grupo](https://t.me/codenjobsgroup)
   * [Twitter](https://twitter.com/codenjobs)
+
+
+* [Hoja de Ruta](./roadmap.md)
+* [Whithepaper (Libro Blanco)](https://www.codenjobs.com/company/whitepaper)
 
 <!-- badges -->
 

@@ -1,0 +1,4 @@
+# Farms spanish
+---
+
+Users can create ALP liquidity mining farms with custom token emissions using an intuitive interface with zero coding knowledge required. Users can choose between allocated emissions, or minted emissions. With allocated emissions, users can deposit an amount of a token they would like to be distributed to stakers. With minted emissions, new tokens are minted every second to be distributed, instead of being allocated upfront, similar to protocols such as Sushiswap. Users can also specify an owner mint reward percentage, where the specified percentage of all new tokens minted are distributed to a developer token account.
