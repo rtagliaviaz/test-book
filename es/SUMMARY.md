@@ -1,7 +1,9 @@
 * [Bienvenida](README.md)
 
+
 * Primeros Pasos
   * [SPL Wallet](./getting-started/spl-wallet.md)
+
 
 * Guia de uso
   * [Cuenta]()
@@ -9,17 +11,17 @@
     * [Registro](./guides/account/signup.md)
     * [Perfil](./guides/account/profile.md)
   * [Empleo]()
-    * [Portal]()
-    * [Publicación de oferta]()
-    * [Estado de Búsqueda]()
+    * [Portal](./guides/jobs/board.md)
+    * [Buscador](./guides/jobs/search-engine.md)
+    * [Publicación de oferta](./guides/jobs/job-post.md)
   * [Articulos]()
     * [Buscador](./guides/blog/search-engine.md)
-    * [Creación](./guides/blogpost.md)
+    * [Creación](./guides/blog/blogpost.md)
     * [Gestión](./guides/blog/posts-management.md)
 
 
 * Exchange
-  * [CODE Token]()
+  * [CODE Token](./exchange/code-token.md)
 
 
 * Comunidad
