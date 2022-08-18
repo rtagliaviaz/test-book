@@ -50,6 +50,11 @@ Finalmente el botón *Swap* para realizar el intercambio.
 Una vez realizado el intercambio se podrá observar una ventana emergente de nuestra cartera para aprobar el intercambio.
  
 ![approve-swap](https://res.cloudinary.com/codenjobs/image/upload/v1660859152/user/file/vq3wmqzirzhf8ohpufsq.png)
+
+
+Una vez confirmado obtendremos el siguiente mensaje, con un enlace para visualizar nuestra transacción
+
+![swap-confirmed](https://res.cloudinary.com/codenjobs/image/upload/v1660860752/user/file/aeaftv0x5iqpqcxm53mp.png)
  
  
 *Al poco tiempo de haber aprobado el intercambio se podrá observar los cambios en el saldo.*
