@@ -21,6 +21,7 @@
 
 
 * Exchange
+  * [Swapping](./exchange/swapping.md)
   * [CODE Token](./exchange/code-token.md)
 
 

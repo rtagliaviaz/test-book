@@ -12,7 +12,7 @@ El objetivo de la introducción de *$CODE* es proporcionar un modo conveniente y
 
 Dirección del contrato
 
-- Code7hV6DaK5Werof8c7vPwBxLvhmEWVUbU2AfhBZArB
+- https://solscan.io/token/Code7hV6DaK5Werof8c7vPwBxLvhmEWVUbU2AfhBZArB
 
 Símbolo
 

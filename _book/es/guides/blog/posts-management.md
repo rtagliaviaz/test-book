@@ -1,4 +1,4 @@
-# Gestión
+# Gestión de Artículos
  
  
 Existen dos maneras para poder *editar* o *eliminar* articulos.

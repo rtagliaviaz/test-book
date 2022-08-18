@@ -1,4 +1,4 @@
-# Creación de artículo de blog
+# Creación de artículos
  
 *Para poder crear un artículo de blog es necesario haber creado primero una cuenta, en caso de haberla creado haberse autenticado*
  
@@ -23,7 +23,7 @@ Actualmente existen tres maneras de poder crear un artículo:
  
 <br>
  
-* Ubicandose en la barra de navegación, en la esquina superior derecha podrá observar el icono de un lápiz, haga clic en el icono y se mostrará un modal con dos opciones (crear un blog post) y (crear un job post u oferta de trabajo), debe hacer clic sobre la primera opción.
+* Ubicándose en la barra de navegación, en la esquina superior derecha podrá observar el icono de un lápiz, haga clic en el icono y se mostrará un modal con dos opciones (crear un blog post) y (crear un job post u oferta de trabajo), debe hacer clic sobre la primera opción.
  
 ![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660577537/user/file/v04wlc2h9zn6x1ixtap1.png)
  
@@ -45,12 +45,9 @@ En la sección de contenido se podrán subir imágenes, para poder subir imágen
 ![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660577608/user/file/xmpdehb445vpppxc5ywd.png)
 ![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660577618/user/file/fucvguywmlxx9pagavcg.png)
 ![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660579859/user/file/m8pqss0o9v6iso4gcijm.png)
-
+ 
 Después de haber llenado debidamente los campos, hacer clic en el botón "Continue to preview", de esta manera se mostrará una previsualización del artículo, en la cual podrá observar el contenido del artículo y la imagen de portada.
  
 Después de haber revisado y estar conforme con la previsualización del artículo, podrá publicar el artículo haciendo clic en el botón "Publish your blog post", este botón se encuentra en la parte inferior de la página.
  
 ![Alt text](https://res.cloudinary.com/codenjobs/image/upload/v1660578394/user/file/ds2bobgbtxjpbr5ogddy.png)
- 
- 
-

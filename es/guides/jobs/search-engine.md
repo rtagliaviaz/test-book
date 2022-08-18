@@ -1,4 +1,4 @@
-# Buscador
+# Buscador de Ofertas
  
  
 El *buscador* de empleo es una herramienta disponible en la [página de empleos](https://www.codenjobs.com/jobs). Permite al usuario, poder realizar búsquedas refinadas por título, categoría, tipo, compañía, salario, ubicación y habilidades.
