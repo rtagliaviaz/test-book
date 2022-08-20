@@ -77,7 +77,19 @@ En esta sección se puede obtener un enlace de referidos, el cual brinda benefic
 ## Crypto
 - - -
  
-Sección para añadir la dirección de la wallet (billetera) de Solana a la plataforma, así como listar NFT
+En esta sección se puede añadir la dirección de la wallet (cartera) de Solana a la plataforma.
  
-
+ 
 ![cyrpto-settings](https://res.cloudinary.com/codenjobs/image/upload/v1660670931/user/file/bbr1hypsf5q6nncnzi95.png)
+ 
+ 
+En caso de que esta wallet (cartera) tenga NFTs se podrá obtener un listado de estos y poder elegir uno como NFT principal para mostrar en el perfil.
+ 
+ 
+![NFT-list](https://res.cloudinary.com/codenjobs/image/upload/v1660997361/user/file/kmnmirpwroharyfuscek.png)
+ 
+ 
+![selected-nft](https://res.cloudinary.com/codenjobs/image/upload/v1660997380/user/file/evtwitngu5kthf2mdy4k.png)
+
+
+![profile-main-nft](https://res.cloudinary.com/codenjobs/image/upload/v1660997915/user/file/e3ipmpmifs5quvzqo5i9.png)

@@ -61,7 +61,7 @@ Después de haber revisado y estar conforme con la previsualización de la ofert
 ![payment-btn](https://res.cloudinary.com/codenjobs/image/upload/v1660749439/user/file/qjxbuimw6co283vkft82.png)
 
  
-*Recuerde que debe conectar la wallet(billetera) de Solana para poder realizar el pago*
+*Recuerde que debe conectar la wallet(cartera) de Solana para poder realizar el pago*
  
 Una vez en la página de pago podrá observar lo que obtendrá por su pago, el precio total y el botón de confirmación al final de la página.
  
